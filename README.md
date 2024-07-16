@@ -1,0 +1,1 @@
+RS-41 meteo sonde frequency calculator in 3 register. Calculator is Python3 based code and TKinter for GUI. Code is based form this web: https://www.makemehack.com/2020/12/how-to-change-the-tx-frequency-of-the-vaisala-rs41-radiosonde.html
